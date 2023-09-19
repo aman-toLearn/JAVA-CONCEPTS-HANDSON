@@ -6,6 +6,7 @@ public class Intro01 {
 
         Intro01 objj = new Intro01();
         System.out.println(objj.rollno);
+        System.out.println(objj.name);
     }
 
 
